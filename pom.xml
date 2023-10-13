@@ -4,7 +4,7 @@
 	<artifactId>simple-springboots</artifactId>
 	<version>0.1</version>
 	<name>appjava</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot Application</description>
 	<packaging>jar</packaging>
 	
 	<parent>
